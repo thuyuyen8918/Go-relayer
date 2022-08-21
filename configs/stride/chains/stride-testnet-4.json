@@ -1,0 +1,18 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "gorelayer",
+    "chain-id": "STRIDE-TESTNET-4",
+    "rpc-addr": "http://localhost:26657",    
+    "account-prefix": "stride",
+    "keyring-backend": "test",    
+    "gas-adjustment": 1.4,
+    "gas-prices": "0.025ustrd",
+    "gas": "200000",
+    "debug": false,
+    "timeout": "60s",
+    "memo-prefix": "thuyuyen#7487",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
