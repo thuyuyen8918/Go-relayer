@@ -1,0 +1,19 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "gorelayer",
+    "chain-id": "GAIA",
+    "rpc-addr": "http://localhost:23657",
+    "account-prefix": "cosmos",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.4,
+    "gas-prices": "0.0025uatom",    
+    "gas": "200000",
+    "debug": false,
+    "timeout": "60s",
+    "trusting-period": "8h",
+    "memo-prefix": "thuyuyen#7487",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
