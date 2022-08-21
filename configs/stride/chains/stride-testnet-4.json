@@ -11,6 +11,7 @@
     "gas": "200000",
     "debug": false,
     "timeout": "60s",
+    "trusting-period": "8h",
     "memo-prefix": "thuyuyen#7487",
     "output-format": "json",
     "sign-mode": "direct"
